@@ -1,0 +1,12 @@
+{
+  "name": "expresslab",
+  "version": "1.0.0",
+  "description": "1. create server.js file\r 2. npm init in the directory\r 3. npm install express",
+  "main": "cart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
